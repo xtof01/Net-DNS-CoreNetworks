@@ -1,0 +1,4 @@
+lib/Net/DNS/CoreNetworks.pm
+lib/Net/DNS/CoreNetworks/Zone.pm
+Makefile.PL
+MANIFEST			This list of files
